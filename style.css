@@ -328,6 +328,13 @@ html{
 @media (max-width:420px) {
   .about .about-container .text{
     min-width: 280px;
+
+  }
+  .about .about-container .shape{
+    display: none;
+  }
+  .about .about-container .text .line{
+    width: 300px;
   }
 }
 /* TABLETS */
